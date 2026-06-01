@@ -1,57 +1,72 @@
-# 🛠️ AI Agent Toolkit
+# 🛒 Agent Store — Unified Product Landing Page
 
-**Production-ready CLI tools for AI agent developers.** Zero dependencies. Python stdlib only.
+**16 AI-powered digital products, subscriptions, and free content. All running 24/7 on a $35 Raspberry Pi.**
 
-## Quick Install
-```bash
-curl -sSL https://raw.githubusercontent.com/ulnit/ai-agent-toolkit/main/install.sh | bash
+## 🌐 Live Site
+
+**[ulnit.github.io/agent-store](https://ulnit.github.io/agent-store)** — Browse all products with one-click PayPal checkout.
+
+## 📦 Products
+
+### 💻 Digital Products
+| Product | Description | Price |
+|---------|-------------|-------|
+| 🤖 AI Prompt Factory | 23 premium prompts for PromptBase | $15 |
+| 📘 AI Automation Ebook | 8-chapter guide to AI-powered income | $9 |
+| 📋 Notion Templates | 6 AI-designed templates | $39 |
+| 🎯 Bug Bounty Automation Kit | Pure Python recon toolkit for Pi | $15 |
+| 🤖 AI Agent Toolkit | Zero-dependency CLI tools for AI devs | $9 |
+| 🎬 AI Video Factory | Automated video pipeline (YouTube/TikTok) | $9/mo |
+| 🎓 AI Courses | 3 courses, 24 lessons | $15-29 |
+| 📊 AI Trading Signals | Daily A-share market intelligence | $29/mo |
+| 📝 AI Resume Optimizer | ATS-friendly resume analysis | $5 |
+| 🔌 AI API Gateway | White-label AI model reselling | $9/mo |
+| 🧩 AI Text Pro Extension | Chrome extension for AI writing | $5 |
+
+### 📬 Subscriptions
+| Product | Description | Price |
+|---------|-------------|-------|
+| 🧠 AI Tools Radar | Weekly AI ecosystem intelligence | $9/mo |
+
+### 📝 Free Content
+| Product | Description |
+|---------|-------------|
+| 🤖 AI Automation Lab | 100% AI-generated developer blog |
+| 🐍 Python CLI Tools Guide | Build & distribute pip packages |
+| 🌐 AI Affiliate Network | Multi-niche automated blog network |
+
+## 🚀 Stats
+
+- **23 Products** across digital goods, subscriptions, and free content
+- **15 Cron Jobs** running automated marketing, content, and monitoring
+- **24/7 Operation** on a $35 Raspberry Pi — $0 hosting cost
+- **58 GitHub Repos** — all open source, MIT licensed
+
+## 🏗️ Architecture
+
+```
+Raspberry Pi ($35)
+  ├── AI Agents (Hermes + Claude)
+  ├── Cron Jobs (15 automated tasks)
+  ├── Product Repos (23 products)
+  └── Landing Pages (GitHub Pages)
 ```
 
-Or:
-```bash
-pip install ai-agent-toolkit
-```
+## 💰 Monetization
 
-## Tools
+All products use PayPal.me for instant checkout — no Stripe, no merchant account needed. Revenue streams:
 
-### 🌐 `web-fetch` — Extract clean text from any URL
-```bash
-agent-tools web-fetch "https://example.com"
-agent-tools web-fetch "https://blog.example.com" -o article.txt
-```
-Strips HTML, scripts, styles. Leaves clean readable text. Perfect for AI ingestion.
+- One-time sales (ebooks, templates, prompts)
+- Monthly subscriptions (API Gateway, Video Factory, Trading Signals)
+- Affiliate commissions (blog network)
+- Newsletter subscriptions (AI Agent Weekly)
 
-### 📋 `json-query` — Query JSON with simple dot notation
-```bash
-agent-tools json-query data.json "users.0.name"
-agent-tools json-query api-response.json "data.items.0.title"
-```
-No more writing jq expressions. Just dots.
+## 🔗 Related
 
-### 👁️ `file-watch` — React to file changes automatically
-```bash
-agent-tools file-watch ./src "make build" -p "*.py" -i 3
-```
-Great for auto-reloading dev servers, triggering AI pipelines on new data.
-
-## Why This Toolkit?
-
-| Feature | This Toolkit | Alternatives |
-|---------|-------------|-------------|
-| Dependencies | **Zero** (stdlib only) | jq (C), pup (Go), entr (C) |
-| Cross-platform | ✅ Linux/Mac/Windows | Varies |
-| AI-friendly output | ✅ Clean text, structured JSON | Raw HTML/XML |
-| Pipeable | ✅ stdin/stdout | Limited |
-| Size | **< 200 lines** | 1000s of lines |
-
-## Pricing
-
-**Free tier**: 100 requests/day  
-**Pro tier**: $9 one-time — unlimited usage + priority support  
-**Team tier**: $29 — commercial use + custom integrations
-
-[Buy Pro - $9](https://www.paypal.com/instantcommerce/checkout/EXAMPLE) | [Buy Team - $29](https://www.paypal.com/instantcommerce/checkout/EXAMPLE)
+- [GitHub Profile](https://github.com/ulnit) — All 58 repos
+- [Dev.to Blog](https://dev.to/ulnit) — Daily technical articles
+- [AI Automation Lab](https://ulnit.github.io/blog) — AI-generated blog
 
 ---
 
-Built with ❤️ for the AI agent community. MIT License.
+*100% built by AI agents. Zero dependencies. MIT License.*
