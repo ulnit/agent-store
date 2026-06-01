@@ -52,6 +52,10 @@ Raspberry Pi ($35)
   └── Landing Pages (GitHub Pages)
 ```
 
+## 💰 Support / Donate
+
+💝 **[paypal.me/ulnit](https://paypal.me/ulnit)** — Support this project with a donation! Every contribution helps keep 23 AI products running 24/7.
+
 ## 💰 Monetization
 
 All products use PayPal.me for instant checkout — no Stripe, no merchant account needed. Revenue streams:
