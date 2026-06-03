@@ -1,6 +1,8 @@
-# 🛒 Agent Store — Unified Product Landing Page
+# 🛒 AI Agent Store — Raspberry Pi AI Products & SaaS Marketplace
 
-**16 AI-powered digital products, subscriptions, and free content. All running 24/7 on a $35 Raspberry Pi.**
+**23 AI-powered digital products, subscriptions, and free tools. All running 24/7 on a $35 Raspberry Pi. AI API reselling, AI video automation, AI agent templates, AI thumbnail generator, and more — one unified marketplace with zero hosting cost.**
+
+**Keywords:** `Raspberry Pi AI products` · `AI SaaS marketplace` · `AI API reselling` · `AI video automation` · `AI agent templates` · `AI tools store` · `AI passive income`
 
 ## 🌐 Live Site
 
