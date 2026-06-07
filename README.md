@@ -67,6 +67,13 @@ All products use PayPal.me for instant checkout — no Stripe, no merchant accou
 - Affiliate commissions (blog network)
 - Newsletter subscriptions (AI Agent Weekly)
 
+## 🌟 Featured Products
+
+| Product | Description | Why |
+|---------|-------------|-----|
+| 🎬 [AI Video Factory](https://github.com/ulnit/ai-video-factory) | Fully automated video pipeline (YouTube/TikTok) | **Our flagship product** — Featured on Dev.to, Product Hunt. AI writes scripts, generates slides, assembles 1080p MP4. $9/mo. |
+| 🔌 [AI API Gateway](https://github.com/ulnit/ai-api-gateway) | White-label AI model reselling (GPT-4o, Claude) | **Top monetization product** — Resell AI access at 50% markup. Zero infra. $9/mo. |
+
 ## 🔗 Related
 
 - [GitHub Profile](https://github.com/ulnit) — All 58 repos
