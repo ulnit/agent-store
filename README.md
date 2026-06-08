@@ -1,6 +1,6 @@
 # 🛒 AI Agent Store — Raspberry Pi AI Products & SaaS Marketplace
 
-**23 AI-powered digital products, subscriptions, and free tools. All running 24/7 on a $35 Raspberry Pi. AI API reselling, AI video automation, AI agent templates, AI thumbnail generator, and more — one unified marketplace with zero hosting cost.**
+**15 AI-powered digital products, subscriptions, and free tools. All running 24/7 on a $35 Raspberry Pi. AI API reselling, AI video automation, AI agent templates, AI thumbnail generator, and more — one unified marketplace with zero hosting cost.**
 
 **Keywords:** `Raspberry Pi AI products` · `AI SaaS marketplace` · `AI API reselling` · `AI video automation` · `AI agent templates` · `AI tools store` · `AI passive income`
 
@@ -39,10 +39,10 @@
 
 ## 🚀 Stats
 
-- **23 Products** across digital goods, subscriptions, and free content
+- **15 Products** across digital goods, subscriptions, and free content
 - **15 Cron Jobs** running automated marketing, content, and monitoring
 - **24/7 Operation** on a $35 Raspberry Pi — $0 hosting cost
-- **58 GitHub Repos** — all open source, MIT licensed
+- **59 GitHub Repos** — all open source, MIT licensed
 
 ## 🏗️ Architecture
 
